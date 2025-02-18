@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋! I'm Abdul Rahman, a passionate web developer from India.</h2>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/ae/36/51/ae3651703659253704e61ce1002230ae.gif" width="500" alt="Coding GIF" />
+  <img src="https://gifsec.com/wp-content/uploads/2022/09/hello-gif-13.gif" width="500" alt="Coding GIF" />
 </p>
 
 ---
