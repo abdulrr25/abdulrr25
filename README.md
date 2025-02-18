@@ -7,9 +7,9 @@
 ---
 
 ### 🛠️ About Me
-- 🌱 Currently learning **Next.js & Web3 Development**
+- 🌱 Currently learning **Web3 Development**
 - 💼 Freelance Frontend Developer
-- 🚀 Building an **Aptos-based Social Media Platform**
+- 🚀 Building an **Online Teaching Platform using superFluid**
 - 🎓 Final Year B.Tech Student at **ABES Engineering College**
 - ⚡ Fun Fact: I love **Open Source & Web3 Projects**  
 
