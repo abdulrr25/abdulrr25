@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I'm Abdul Rahman, a passionate web developer from India.</h2>
+<h2 align="center">Hi 👋 I'm Abdul Rahman, a passionate Full Stack Developer Specializing in ReactJs and JavaScript</h2>
 
 <p align="center">
   <img src="https://gifsec.com/wp-content/uploads/2022/09/hello-gif-13.gif" width="500" alt="Coding GIF" />
