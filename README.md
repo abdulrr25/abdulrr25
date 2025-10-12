@@ -10,9 +10,7 @@
 - 🌱 Currently learning **Web3 Development**
 - 💼 Freelance Full Stack Developer
 - 🎓 B.Tech Graduate From **ABES Engineering College**
-- ⚡ Fun Fact: I love **Open Source & Web3 Projects**  
-
----
+- ⚡ Fun Fact: I love **Open Source & Web3 Projects** ---
 
 ### 📊 **GitHub Stats**
 <div align="center">
@@ -23,16 +21,81 @@
 ---
 
 ### 🚀 **Tech Stack**
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+
+<p align="center">
+  <strong>Frontend:</strong><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS" />
+</p>
+<p align="center">
+  <strong>Backend & Blockchain:</strong><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="Solidity" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+</p>
+<p align="center">
+  <strong>Databases:</strong><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+</p>
+
+---
+
+### 💻 My Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">TECHO - Blockchain Teaching Platform</h3>
+      <div align="center">
+        <p>A decentralized education platform with pay-per-second video streaming using Superfluid and Solidity smart contracts. Features gig-based class purchases and Huddle integration for video meetings.</p>
+        <p>
+          <strong>Tech Stack:</strong> Next.js, TypeScript, Solidity, Superfluid, Tailwind CSS
+        </p>
+        <a href="https://github.com/abdulrr25/your-repo-link" target="_blank"><strong>View Repo →</strong></a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Legal Llama - Hackathon Project</h3>
+      <div align="center">
+        <p>A decentralized case management platform for legal professionals. Uses Chainlink CCIP for cross-chain operations and a RAG-based AI for legal document processing.</p>
+        <p>
+          <strong>Tech Stack:</strong> React, Solidity, Chainlink, AI/LLM (RAG)
+        </p>
+        <a href="https://github.com/abdulrr25/your-repo-link" target="_blank"><strong>View Repo →</strong></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Interior Designer Website</h3>
+      <div align="center">
+        <p>A modern, mobile-optimized freelance project for an interior designer. Features scroll animations and a clean visual hierarchy built with Next.js for performance and SEO.</p>
+        <p>
+          <strong>Tech Stack:</strong> Next.js, Framer Motion, Tailwind CSS
+        </p>
+        <a href="https://github.com/abdulrr25/your-repo-link" target="_blank"><strong>View Repo →</strong></a>
+        <br>
+        <a href="https://www.newrangolibuilders.in/" target="_blank"><strong>Live Demo →</strong></a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Portfolio & Website Clones</h3>
+      <div align="center">
+        <p>Responsive clones of popular websites like Shopify and Tesla, alongside my personal portfolio. Engineered with a focus on animations, dynamic routing, and a smooth UI flow.</p>
+        <p>
+          <strong>Tech Stack:</strong> Next.js, React, TypeScript, Framer Motion
+        </p>
+        <a href="https://github.com/abdulrr25/your-repo-link" target="_blank"><strong>View Repo →</strong></a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
