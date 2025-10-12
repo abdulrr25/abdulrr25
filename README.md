@@ -8,9 +8,8 @@
 
 ### 🛠️ About Me
 - 🌱 Currently learning **Web3 Development**
-- 💼 Freelance Frontend Developer
-- 🚀 Building an **Online Teaching Platform using superFluid**
-- 🎓 Final Year B.Tech Student at **ABES Engineering College**
+- 💼 Freelance Full Stack Developer
+- 🎓 B.Tech Graduate From **ABES Engineering College**
 - ⚡ Fun Fact: I love **Open Source & Web3 Projects**  
 
 ---
