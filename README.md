@@ -46,7 +46,6 @@
 ## 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulrr25&show_icons=true&theme=tokyonight&rank_icon=github" height="160" alt="Abdul Rahman's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrr25&theme=tokyonight" height="160" alt="Abdul Rahman's GitHub Streak" />
 </div>
 
@@ -108,7 +107,7 @@
         </p>
         <p align="center"><strong>Tech:</strong> React • Next.js • TypeScript • Framer Motion</p>
         <p align="center">
-          <a href="https://github.com/abdulrr25" target="_blank">🔗 Explore Projects</a>
+          <a href="https://github.com/abdulrr25?tab=repositories" target="_blank">🔗 Explore Projects</a>
         </p>
       </td>
     </tr>
